@@ -8,6 +8,6 @@ Note take that writes, saves, and deletes notes. Built the back end, connect the
 
 To install this app, just run "npm install" in the project directory.
 
-## Screenshot: 
+## Screenshot: ![notetaker](https://user-images.githubusercontent.com/95057279/170135104-33383466-4cae-48f6-86bb-8e7ce86899c0.JPG)
 
-## Link to deployed app: 
+## Link to deployed app: https://git.heroku.com/christianl-note-taker.git
